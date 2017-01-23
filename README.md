@@ -17,7 +17,14 @@ Add a SIP webrtc line.
 
 ![line](/img/2.png?raw=true "Line")
 
-Go to https://phone.wazo.community. Configure the server informations. Fill the form with your login and your password.
+Go to https://phone.wazo.community. Configure the server informations.
+
+
+![unicom configuration icon](/img/6.png?raw=true "Configuration Icon")
+![unicom configuration](/img/5.png?raw=true "Configuration")
+
+
+Fill the form with your login and your password.
 
 ![unicom login](/img/3.png?raw=true "Login")
 
