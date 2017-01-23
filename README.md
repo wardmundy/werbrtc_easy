@@ -24,7 +24,7 @@ Go to https://phone.wazo.community. Configure the server informations.
 ![unicom configuration](/img/5.png?raw=true "Configuration")
 
 
-Fill the form with your login and your password.
+Fill the form with your login and your password. Unicom support French and English languages.
 
 ![unicom login](/img/3.png?raw=true "Login")
 
